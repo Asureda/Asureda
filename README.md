@@ -57,7 +57,7 @@
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/fortran.svg" alt="fortran" width="40" height="40"/>
   </a>
   <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer">
-    <img src="https://www.wolfram.com/common/framework/img/wolfram.es.png" alt="mathematica" width="40" height="40"/>
+    <img src="https://www.wolfram.com/mathematica/img/overview/intro-spikey.png" alt="mathematica" width="40" height="40"/>
   </a>
  <a href="https://fenicsproject.org/" target="_blank" rel="noreferrer">
     <img src="https://fenicsproject.org/assets/img/fenics-logo-small.png" alt="fenics" width="40" height="40"/>
