@@ -47,6 +47,9 @@
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://numpy.org/images/logo.svg" alt="pandas" width="40" height="40"/> 
   </a> 
+   <a href="https://scipy.org/" target="_blank" rel="noreferrer">
+    <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/>
+  </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a>
@@ -54,4 +57,17 @@
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/fortran.svg" alt="fortran" width="40" height="40"/>
   </a>
   <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer">
-    <img src="https://www.logo.wine/logo/Wolfram_Mathematica" alt="mathematica" width="40" height="40"/>  </a> </p>
+    <img src="https://www.wolfram.com/common/framework/img/wolfram.es.png" alt="mathematica" width="40" height="40"/>
+  </a>
+ <a href="https://fenicsproject.org/" target="_blank" rel="noreferrer">
+    <img src="https://fenicsproject.org/assets/img/fenics-logo-small.png" alt="fenics" width="40" height="40"/>
+  </a>
+   <a href="https://espressomd.org/wordpress/" target="_blank" rel="noreferrer">
+    <img src="https://espressomd.org/wordpress/wp-content/uploads/2017/10/cropped-header4.png" alt="espressomd" width="40" height="40"/>
+  </a>
+   <a href="https://www.open-mpi.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.open-mpi.org/images/open-mpi-logo.png" alt="openmpi" width="40" height="40"/>
+  </a>
+  
+
+</a> </p>
