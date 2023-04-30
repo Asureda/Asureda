@@ -65,10 +65,10 @@
   </a>
     <a href="https://docs.openmc.org/en/stable/" target="_blank" rel="noreferrer">
     <img src="https://docs.openmc.org/en/stable/_static/openmc_logo.png" alt="espressomd" width="40" height="20"/>
+   </a>
  <a href="https://fenicsproject.org/" target="_blank" rel="noreferrer">
     <img src="https://fenicsproject.org/assets/img/fenics-logo-small.png" alt="fenics" width="40" height="40"/>
   </a>
    <a href="https://espressomd.org/wordpress/" target="_blank" rel="noreferrer">
     <img src="https://espressomd.org/wordpress/wp-content/uploads/2017/10/cropped-header4.png" alt="espressomd" width="40" height="20"/>
-
-</a> </p>
+  </a> 
