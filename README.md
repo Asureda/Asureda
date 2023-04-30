@@ -6,13 +6,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-- 🔭 I’m currently working on **In computational simulations in the field of Fusion Energy and currently collaborating with the BioPhysChem group at the Institut de Química Teórica i Computacional de Catalunya.**
+- 🔭 I’m currently working on **Computational simulations in the field of Fusion Energy and currently collaborating with the BioPhysChem group at the Institut de Química Teórica i Computacional de Catalunya.**
 
 - 🌱 I’m currently learning **Computational biophysics. Data science and machine learning. Neutronic simulations in the field of nuclear fusion.**
 
 - 👯 I’m looking to collaborate on **developing software in the scientific and HPC fields**
 
-- 💬 Ask me about **Statistical physics, Molecular Dynamics, Computer Science, HPC, Nuclear fusion, Neutronic simulations, Polymer science**
+- 💬 Ask me about **Statistical physics, Molecular Dynamics, Transport phenomena, Computer Science, HPC, Nuclear fusion, Neutronic simulations, Polymer science**
 
 - 📫 How to reach me **alexandre.sureda@co.idom.com, asuredcr7@alumnes.ub.edu**
 
@@ -63,7 +63,7 @@
     <img src="https://fenicsproject.org/assets/img/fenics-logo-small.png" alt="fenics" width="40" height="40"/>
   </a>
    <a href="https://espressomd.org/wordpress/" target="_blank" rel="noreferrer">
-    <img src="https://espressomd.org/wordpress/wp-content/uploads/2017/10/cropped-header4.png" alt="espressomd" width="40" height="40"/>
+    <img src="https://espressomd.org/wordpress/wp-content/uploads/2017/10/cropped-header4.png" alt="espressomd" width="40" height="20"/>
   </a>
    <a href="https://www.open-mpi.org/" target="_blank" rel="noreferrer">
     <img src="https://www.open-mpi.org/images/open-mpi-logo.png" alt="openmpi" width="40" height="40"/>
