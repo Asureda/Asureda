@@ -25,6 +25,13 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a> 
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+   <a href="https://www.fortran.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/fortran.svg" alt="fortran" width="40" height="40"/>
+  </a>
+    </a>
   <a href="https://circleci.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> 
   </a> 
@@ -38,9 +45,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
     </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a> 
@@ -53,10 +57,6 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a>
-  <a href="https://www.fortran.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/fortran.svg" alt="fortran" width="40" height="40"/>
-  </a>
-    </a>
    <a href="https://www.open-mpi.org/" target="_blank" rel="noreferrer">
     <img src="https://www.open-mpi.org/images/open-mpi-logo.png" alt="openmpi" width="40" height="40"/>
   </a>
