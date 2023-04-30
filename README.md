@@ -47,7 +47,7 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a>
   <a href="https://www.fortran.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/fortran/fortran-ar21.svg" alt="fortran" width="40" height="40"/>
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/fortran.svg" alt="fortran" width="40" height="40"/>
   </a>
   <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/wolfram/wolfram-ar21.svg" alt="mathematica" width="40" height="40"/>  </a> </p>
+    <img src="https://www.logo.wine/logo/Wolfram_Mathematica" alt="mathematica" width="40" height="40"/>  </a> </p>
