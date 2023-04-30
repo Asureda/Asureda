@@ -2,11 +2,11 @@
 <h3 align="center">Computational Chemistry & Physics</h3>
 
 <div id="badges">
-  <h3 align="left">
+  <h3 align="center">
   <a href="https://www.linkedin.com/in/alexandre-sureda-croguennoc-28a03b161">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  :</h3>
+  </h3>
 </div>
 
 - 🔭 I’m currently working on **Computational simulations in the field of Fusion Energy and currently collaborating with the BioPhysChem group at the Institut de Química Teórica i Computacional de Catalunya.**
