@@ -67,10 +67,10 @@
     <img src="https://avatars.githubusercontent.com/u/42039615?s=200&v=4" alt="openmc" width="40" height="40"/>
    </a>
    <a href="https://www.lammps.org/#gsc.tab=0" target="_blank" rel="noreferrer">
-    <img src="https://www.lammps.org/movies/logo.gif" alt="lammps" width="40" height="40"/>
+    <img src="https://www.lammps.org/movies/logo.gif" alt="lammps" width="60" height="40"/>
   </a>
     <a href="https://manual.gromacs.org/current/user-guide/index.html" target="_blank" rel="noreferrer">
-    <img src="https://manual.gromacs.org/current/_static/gmx_logo_blue.svg" alt="gromacs" width="40" height="40"/>
+    <img src="https://manual.gromacs.org/current/_static/gmx_logo_blue.svg" alt="gromacs" width="50" height="50"/>
   </a>
  <a href="https://fenicsproject.org/" target="_blank" rel="noreferrer">
     <img src="https://fenicsproject.org/assets/img/fenics-logo-small.png" alt="fenics" width="40" height="40"/>
