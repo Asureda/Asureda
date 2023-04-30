@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="badges">
-  <a href="[[your-linkedin-URL](https://www.linkedin.com/in/alexandre-sureda-croguennoc-28a03b161)](https://www.linkedin.com/in/alexandre-sureda-croguennoc-28a03b161)">
+  <a href="[(https://www.linkedin.com/in/alexandre-sureda-croguennoc-28a03b161)](https://www.linkedin.com/in/alexandre-sureda-croguennoc-28a03b161)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
