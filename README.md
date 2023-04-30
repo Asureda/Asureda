@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **alexandre.sureda@co.idom.com, asuredcr7@alumnes.ub.edu**
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Asureda/Asureda/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
