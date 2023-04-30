@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alexandre Sureda Croguennoc</h1>
 <h3 align="center">Computational Chemistry & Physics</h3>
 
+<div id="badges">
+  <h3 align="left">
+  <a href="https://www.linkedin.com/in/alexandre-sureda-croguennoc-28a03b161">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  :</h3>
+</div>
+
 - 🔭 I’m currently working on **Computational simulations in the field of Fusion Energy and currently collaborating with the BioPhysChem group at the Institut de Química Teórica i Computacional de Catalunya.**
 
 - 🌱 I’m currently learning **Computational biophysics. Data science and machine learning. Neutronic simulations in the field of nuclear fusion.**
@@ -11,11 +19,6 @@
 
 - 📫 How to reach me **alexandre.sureda@co.idom.com, asuredcr7@alumnes.ub.edu**
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/alexandre-sureda-croguennoc-28a03b161">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 ![snake gif](https://github.com/Asureda/Asureda/blob/output/github-contribution-grid-snake.gif)
 
