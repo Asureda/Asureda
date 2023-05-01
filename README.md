@@ -9,7 +9,7 @@
   </h3>
 </div>
 
-- 🔭 I’m currently working on **Computational simulations in the field of Fusion Energy and currently collaborating with the BioPhysChem group at the Institut de Química Teórica i Computacional de Catalunya.**
+- 🔭 I’m currently working on **Computational simulations in the field of Fusion Energy at IDOM Consulting, Engineering, Architecture - Computational Transport Phenomena team (CTP) and currently collaborating with the BioPhysChem group at the Institut de Química Teórica i Computacional de Catalunya.**
 
 - 🌱 I’m currently learning **Computational biophysics. Data science and machine learning. Neutronic simulations in the field of nuclear fusion.**
 
