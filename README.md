@@ -20,7 +20,7 @@
 - 📫 How to reach me **alexandre.sureda@co.idom.com, asuredcr7@alumnes.ub.edu**
 
 
-![snake gif](https://github.com/Asureda/Asureda/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/{{Asureda}}/{{Asureda}}/blob/output/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">Languages and Tools Summary:</h3>
