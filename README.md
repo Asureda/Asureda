@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Statistical physics, Molecular Dynamics, Transport phenomena, Computer Science, HPC, Nuclear fusion, Neutronic simulations, Polymer science**
 
-- 📫 How to reach me **alexandre.sureda@co.idom.com, asuredcr7@alumnes.ub.edu**
+- 📫 How to reach me **alexandre.sureda@idom.com, asuredcr7@alumnes.ub.edu**
 
 ![snake gif](https://github.com/Asureda/Asureda/blob/output/github-contribution-grid-snake.gif)
 
